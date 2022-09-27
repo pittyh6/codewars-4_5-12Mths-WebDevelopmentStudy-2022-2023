@@ -8,10 +8,10 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
+<!--
 * JavaScript [link](https://github.com/pittyh6/codewars_12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * ES6/ES2015 [link](https://github.com/pittyh6/codewars_12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedES6-ES2015.md)
 * Resources [link](https://github.com/pittyh6/codewars_12Mths-WebDevelopmentStudy-2022-2023/blob/master/learnedResources.md)
-<!-- 
 * Projects [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023)
 * SASS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 * CSS [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
@@ -19,7 +19,7 @@
 -->
 
 ## Project + Result 
-* 
+* reverseWords [link]()
 
 
 ## Previous Projects
