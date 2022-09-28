@@ -7,22 +7,13 @@ Examples
 */
 
 function reverseWords(str) {
-  console.log("normal: " + str.length);
+  let result = str.split("").reverse().join("").split(" ").reverse().join(" ");
+  console.log(result);
   //   let test =  str.split("").reverse().join(" ");
   //   console.log("First: " + test)
   //   test = str.split(" ").reverse().join(" ");
   //   console.log("Second: " + test)
-// let strResult;
-//   for (let i = 0; i < str.length; i++) {
-//     console.log("str[i]: " + str[i])
-//     strResult += str[i];
-
-//   }
-//   console.log("strResult: " +strResult)
-//   let strSplit = strResult.split(",").reverse().join("")
-//   console.log("strSplit: " + strSplit)
-// }
-
+}
 reverseWords("The quick brown fox jumps over the lazy dog."); //ehT kciuq nworb xof spmuj revo eht yzal .god
 reverseWords("apple"); // elppa
 reverseWords("a b c d"); //a b c d
