@@ -19,8 +19,9 @@
 -->
 
 ## Project + Result 
-* Reverse Words [link]()
-* Credit Card Mask [link]()
+* Reverse Words [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/reverseWords)
+* Credit Card Mask [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask)
+
 
 
 ## Previous Projects
