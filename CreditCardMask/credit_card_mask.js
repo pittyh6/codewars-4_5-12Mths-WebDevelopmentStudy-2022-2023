@@ -18,3 +18,13 @@ Your task is to write a function maskify, which changes all but the last four ch
 "####################################man!"
 */
 
+
+// return masked string
+function maskify(cc) {
+
+}
+
+
+maskify('4556364607935616')// '############5616';
+maskify('1')// '1';
+maskify('11111') //'#1111';
