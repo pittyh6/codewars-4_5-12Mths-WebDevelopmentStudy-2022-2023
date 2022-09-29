@@ -19,7 +19,8 @@
 -->
 
 ## Project + Result 
-* reverseWords [link]()
+* Reverse Words [link]()
+* Credit Card Mask [link]()
 
 
 ## Previous Projects
