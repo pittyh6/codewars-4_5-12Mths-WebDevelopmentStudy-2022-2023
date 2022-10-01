@@ -21,7 +21,12 @@ Your task is to write a function maskify, which changes all but the last four ch
 
 // return masked string
 function maskify(cc) {
-
+    if(cc.length < 5){
+        console.log("if: " + cc)
+        return cc;
+    }else{
+        console.log("else: " + cc)
+    }
 }
 
 
