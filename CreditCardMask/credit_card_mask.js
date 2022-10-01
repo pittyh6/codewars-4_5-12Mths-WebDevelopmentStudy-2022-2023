@@ -34,3 +34,15 @@ function maskify(cc) {
 maskify('4556364607935616')// '############5616';
 maskify('1')// '1';
 maskify('11111') //'#1111';
+
+
+/*
+----- others result -----
+function maskify(cc) {
+  return cc.slice(0, -4).replace(/./g, '#') + cc.slice(-4);
+}
+function maskify(cc) {
+  return cc.replace(/.(?=....)/g, '#');
+}
+maskify = (cc) => '#'.repeat(Math.max(0, cc.length - 4)) + cc.substr(-4);
+*/
