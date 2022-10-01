@@ -22,10 +22,11 @@ Your task is to write a function maskify, which changes all but the last four ch
 // return masked string
 function maskify(cc) {
     if(cc.length < 5){
-        console.log("if: " + cc)
         return cc;
     }else{
-        console.log("else: " + cc)
+        let result = `${'#'.repeat(cc.length - 4)}${cc.substring(cc.length -4)}`;
+        console.log("result: " + result)
+        return result
     }
 }
 
